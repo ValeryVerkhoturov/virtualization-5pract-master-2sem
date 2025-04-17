@@ -1,0 +1,10 @@
+all:
+  vars:
+    ansible_user: ansible
+  hosts:
+    46.149.68.164: # your host IP or domain
+      ansible_user: root
+      ansible_password: 's47,Y7X*b9CUwP'
+    176.53.163.172: # your host IP or domain
+      ansible_user: root
+      ansible_password: 'es?ZwE4BrK?^Gg'
