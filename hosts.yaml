@@ -4,7 +4,7 @@ all:
   hosts:
     46.149.68.164: # your host IP or domain
       ansible_user: root
-      ansible_password: 's47,Y7X*b9CUwP'
+      ansible_password: ''
     176.53.163.172: # your host IP or domain
       ansible_user: root
-      ansible_password: 'es?ZwE4BrK?^Gg'
+      ansible_password: ''
